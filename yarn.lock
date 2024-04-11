@@ -445,7 +445,7 @@
     "@ckeditor/ckeditor5-utils" "41.3.0"
     lodash-es "4.17.21"
 
-"@ckeditor/ckeditor5-ui@41.3.0":
+"@ckeditor/ckeditor5-ui@41.3.0", "@ckeditor/ckeditor5-ui@^41.3.0":
   version "41.3.0"
   resolved "https://registry.yarnpkg.com/@ckeditor/ckeditor5-ui/-/ckeditor5-ui-41.3.0.tgz#7f2a713af10eedae4b15b989a29aed3d62110b0a"
   integrity sha512-F/zDk3584klgeoP2VyQmXn4cx0ekkfB8JD8JpqVNPAcLlw6HRdP9zhSTc9fDkA8QGnRIA/M0cXm3qXYS1Vms0Q==
