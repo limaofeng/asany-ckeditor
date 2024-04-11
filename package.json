@@ -11,7 +11,8 @@
     "postpublish": "pinst --enable",
     "build:deps": "father prebundle",
     "version": "conventional-changelog -p angular -i CHANGELOG.md -s && git add CHANGELOG.md",
-    "prepublishOnly": "pinst --disable && father doctor && npm run build"
+    "prepublishOnly": "pinst --disable && father doctor && npm run build",
+    "postversion": "git push --follow-tags"
   },
   "keywords": [],
   "authors": [
